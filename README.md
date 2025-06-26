@@ -28,7 +28,15 @@
  
  
 ````bash
-apt update && apt upgrade && pkg update && pkg upgrade && pkg install git && pkg install python && pip install mechanize && pip install fake_useragent && pip install requests
+apt update
+apt upgrade
+pkg update
+pkg upgrade
+pkg install git
+pkg install python
+pip install mechanize
+pip install fake_useragent
+pip install requests
 ````
 
 
@@ -36,5 +44,9 @@ apt update && apt upgrade && pkg update && pkg upgrade && pkg install git && pkg
 
  
 ````bash
-cd && clear && rm -rf SafeUM && git clone https://github.com/MEHAJIBSHA/SafeUM && cd SafeUM && python Create.py
+cd
+clear
+rm -rfSafeUM
+git clone https://github.com/MEHAJIBSHA/SafeUM && cd SafeUM
+python Create.py
 ````
