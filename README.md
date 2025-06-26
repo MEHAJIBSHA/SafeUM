@@ -16,9 +16,12 @@
 
 
 
+
+
 ### (Create Fake WhatsApp Account +994)
 
-___This Tool is Free___</br>
+
+
 
 
 ### (Modules Required)
