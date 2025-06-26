@@ -24,7 +24,7 @@
 
 
 
-### (Modules Required)
+### (Install Termux)
  
  
 ````bash
@@ -32,7 +32,8 @@ apt update && apt upgrade && pkg update && pkg upgrade && pkg install git && pkg
 ````
 
 
- ### (Run Tool)
+ ### (Install The Dependencies)
+
  
 ````bash
 cd && clear && rm -rf SafeUM && git clone https://github.com/MEHAJIBSHA/SafeUM && cd SafeUM && python Create.py
