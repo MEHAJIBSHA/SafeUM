@@ -21,7 +21,7 @@
 ### (Create Fake WhatsApp Account +994)
 
 
-### (Update The system)
+### (Update The System)
 
 ````bash
 apt update
