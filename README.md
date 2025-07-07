@@ -21,7 +21,7 @@
 
 
 
-### (Create Fake WhatsApp Account +994)
+### (Create Fake WhatsApp Account +994) (1)
 
 
 ### (Update The System)
@@ -63,3 +63,32 @@ rm -rfSafeUM
 git clone https://github.com/MEHAJIBSHA/SafeUM && cd SafeUM
 python Create.py
 ````
+
+
+### (Create Fake WhatsApp Account +994) (2)
+
+
+### (Update The System)
+
+````bash
+apt update
+apt upgrade
+pkg update
+pkg upgrade
+pkg install git
+pkg install python
+pip install mechanize
+pip install fake_useragent
+pip install requests
+````
+
+### (Install The Dependencies)
+
+
+````bash
+cd storage 
+cd downloads 
+cd telegram 
+python mrchandiopaid.py
+````
+
