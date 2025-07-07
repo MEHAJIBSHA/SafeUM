@@ -18,6 +18,9 @@
  </p>
 <p align="center">
 <a href="https://github.com/Tohidkhan6332/SafeUM"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+ <p align="center">
+<a href="https://mrchandiotools.blogspot.com/2025/04/accounts-create-commands-for-termux-run.html?m=1"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
 </p>
 
 
