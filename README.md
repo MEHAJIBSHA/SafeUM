@@ -11,17 +11,17 @@
 <a href="https://github.com/MEHAJIBSHA"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/techgod143/SafeUM"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/techgod143/SafeUM"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 1-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/younis-dgk/SafeUM"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/younis-dgk/SafeUM"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 2-orange.svg?style=for-the-badge&logo=github"></a>
  </p>
 <p align="center">
-<a href="https://github.com/Tohidkhan6332/SafeUM"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Tohidkhan6332/SafeUM"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 3-orange.svg?style=for-the-badge&logo=github"></a>
  <p align="center">
-<a href="https://mrchandiotools.blogspot.com/2025/04/accounts-create-commands-for-termux-run.html?m=1"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://mrchandiotools.blogspot.com/2025/04/accounts-create-commands-for-termux-run.html?m=1"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 4-orange.svg?style=for-the-badge&logo=github"></a>
   <p align="center">
-<a href="https://earnastic.blogspot.com/2025/02/create-unlimited-safeum-accounts-100.html?m=1"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://earnastic.blogspot.com/2025/02/create-unlimited-safeum-accounts-100.html?m=1"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 5-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 </p>
 </p>
