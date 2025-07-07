@@ -1,4 +1,4 @@
-### (Termux SafeUM)
+### (SafeUM)
 
 
 <p align="center">
