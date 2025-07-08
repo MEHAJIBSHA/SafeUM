@@ -34,44 +34,18 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
 ### (Create Fake WhatsApp Account +994) (1)
 
 
-### (Update The System)
-
-````bash
-apt update
-apt upgrade -y
-pkg update 
-pkg upgrade -y
-pkg install python
-pkg install python3
-pkg install git
-````
 
 
 ### (Install Termux)
  
- 
 ````bash
-apt update
-apt upgrade
-pkg update
-pkg upgrade
-pkg install git
-pkg install python
-pip install mechanize
-pip install fake_useragent
-pip install requests
+pkg update -y && pkg upgrade -y && apt update -y && apt upgrade -y && pkg install git && pkg install python -y && pip install mechanize && pip install fake_useragent && pip install requests
 ````
 
-
  ### (Install The Dependencies)
-
  
 ````bash
-cd
-clear
-rm -rfSafeUM
-git clone https://github.com/MEHAJIBSHA/SafeUM && cd SafeUM
-python Create.py
+cd && clear && rm -rfSafeUM && git clone https://github.com/MEHAJIBSHA/SafeUM && cd SafeUM && python Create.py
 ````
 
 
@@ -81,24 +55,13 @@ python Create.py
 ### (Update The System)
 
 ````bash
-apt update
-apt upgrade
-pkg update
-pkg upgrade
-pkg install git
-pkg install python
-pip install mechanize
-pip install fake_useragent
-pip install requests
+pkg update -y && pkg upgrade -y && apt update -y && apt upgrade -y && pkg install git && pkg install python -y && pip install mechanize && pip install fake_useragent && pip install requests
 ````
 
 ### (Install The Dependencies)
 
 
 ````bash
-cd storage 
-cd downloads 
-cd telegram 
-python mrchandiopaid.py
+cd storage && cd downloads && cd telegram && python mrchandiopaid.py
 ````
 
